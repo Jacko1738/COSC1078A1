@@ -1,0 +1,88 @@
+body {
+    background-color: rgba(109, 200, 212, 0.514);
+}
+
+h1 {
+    color: black;
+    background-color: rgba(87, 137, 245, 0.623);
+    align-items: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 0.5cm;
+    padding-top: 20px;
+}
+
+h2 {
+    color: black;
+    background-color: rgba(255, 255, 255, 0.836);
+    padding: 1px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 4px;
+    font-size: 50px;
+    text-align: center;
+}
+
+p1 {
+    color: black;
+    padding: 1cm;
+    text-align: center;
+    display: block;
+}
+
+p {
+    padding-top: 0cm;
+    text-align: center;
+}
+
+img1 {
+    float: right;
+    padding-left: 1cm;
+    border-radius: 8px;
+}
+
+.pic2 {
+    float: left;
+    display: block;
+    margin-left: auto;
+    padding-left: 25px;
+    border-radius: 8px;
+}
+
+.pic3 {
+    display: block;
+    float: right;
+    width: 400px;
+    padding-bottom: 20px;
+    border-radius: 8px;
+}
+
+.pic4 {
+    display: block;
+    float: right;
+    padding-right: 25px;
+    width: 300px;
+}
+
+div {
+    background-color: rgba(99, 177, 187, 0.849);
+    background-size: 80% 100%;
+    padding-bottom: 20px;
+}
+
+body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+.LST {
+    float: none;
+    text-align: center;
+}
+
+.skill_table {
+    padding-left: 25px;
+    padding-right: 25px;
+}
